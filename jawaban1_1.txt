@@ -1,0 +1,4 @@
+harga GPU dan Webcam adalah 5.500.000, jika harga GPU 5.000.000 lebih mahal dari harga Webcam, 
+maka harga Webcam adalah 500.000, hal ini karena Webcam = 5.500.000-GPU => Webcam = 5.500.000-5.000.000,maka :
+- Harga Webcam 500.000
+- Harga GPU 5.000.000

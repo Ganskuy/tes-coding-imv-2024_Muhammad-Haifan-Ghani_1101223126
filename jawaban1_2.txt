@@ -1,0 +1,32 @@
+Diketahui :
+> Kereta Cepat Bandung-Jakarta, waktu tempuh 30 menit (0.5 jam), kecepatan konstan
+> Kereta berjalan 50km/jam lebih cepat, waktu tempuh berkurang menjadi 10 menit (0.17 jam)
+
+Ditanya : 
+Berapakah jarak antara stasiun Bandung dan Jakarta?
+
+JWB : 
+- clue 1 :
+"Kereta Cepat Bandung-Jakarta, waktu tempuh 30 menit (0.5 jam), kecepatan konstan", 
+dapat diubah menjadi persamaan  :
+j/v=0.5 (dengan v adalah kecepatan, dan j adalah jarak) => j=0.5v...1
+
+- clue 2 :
+"Kereta berjalan 50km/jam lebih cepat, waktu tempuh berkurang menjadi 10 menit (0.17 jam)"
+dapat dijadikan persamaan :
+j/v+50=0.17...2
+
+hasil :
+substitusi pers 1 ke 2
+0.5v/v+50=0.17
+0.5v=0.17(v+50)
+0.5v=0.17v+8.5
+0.5v-0.17v=8.5
+0.33v=8.5
+v=8.5/0.33
+v=25.75
+
+maka, jarak adalah substitusi nilai v ke salah satu persamaan :
+j/25.75=0.5
+j=0.5 x 25.75
+j=12.87 KM

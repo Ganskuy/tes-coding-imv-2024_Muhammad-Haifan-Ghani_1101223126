@@ -1,0 +1,17 @@
+Petunjuk yang diberikan: polisi selalu berkata jujur dan pencuri selalu berkata bohong.
+
+Suatu hari ada suatu kasus pencurian yang melibatkan polisi dan pencuri. Disini kita ditugaskan untuk mencari siapa pencuri dan siapa polisi. 
+Terdapat 3 tersangka yaitu Hari, Budi dan Lestari. Ketika dilakukan interogasi, masing- masing dari mereka memberikan pernyataan:
+
+Hari : "Salah satu pernyataan yang saya katakan adalah benar, yaitu Budi adalah pencuri atau saya adalah polisi"
+
+Lestari : "Hari bisa saja menuduh bahwa saya adalah pencuri"
+
+Budi : "Lestari dan Hari bukanlah seorang polisi"
+Tentukan siapa yang merupakan polisi dan pencurinya!
+
+JWB :
+- polisinya adalah Hari, 
+karena clue "pencuri selalu berkata bohong" sedagkan Hari masih memiliki kejujuran pada kata-katanya yang artinya Hari pasti bukan pencuri.
+- Lestari bisa jadi netral atau seorang polisi karena tidak ada seorang pun yang menuduh dia mencuri, akan tetapi budi mengatakan bahwa Lestari "bukan polisi"
+- Budi adalah pencuri, karena jika bukan Hari pencurinya, dan Hari adalah polisi, maka pencurinya adalah budi

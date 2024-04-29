@@ -1,0 +1,19 @@
+Diketahui :
+Ari>Elang
+Ari<Cia
+Bani<Danny
+Cia<Danny
+Cia>Bani
+
+Maka : 
+Cia<ari<Elang
+Danny<Cia<Bani
+
+maka urutannya
+1. Danny
+2. Cia
+3. Ari
+4. Elang
+5. Bani
+
+urutan ketiga adalah Ari
